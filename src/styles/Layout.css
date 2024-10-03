@@ -1,0 +1,8 @@
+.lmj-layout-inner {
+	display: flex;
+	flex-direction: row;
+}
+
+.lmj-affichage{
+	width: 80%;
+}
